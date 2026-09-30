@@ -1,0 +1,8 @@
+[2026-09-30 08:24:44]
+User: hello
+Bot: Hi! Nice to hear from you.
+--------------------------------------------------
+[2026-09-30 08:25:44]
+User: I want product price
+Bot: Sure! Please tell me which product you're interested in.
+--------------------------------------------------
